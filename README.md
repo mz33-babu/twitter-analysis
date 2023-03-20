@@ -17,7 +17,7 @@ Before running the script, you need to set up the following environment variable
 # Usage
 To start tracking tweets containing specific keywords, run the following command:
 
-```python
+```css
 python main.py
 ```
 By default, the script tracks the following keywords:
