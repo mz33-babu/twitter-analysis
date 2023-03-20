@@ -22,9 +22,9 @@ python main.py
 ```
 By default, the script tracks the following keywords:
 
-* 'mbogi'
-* 'genje'
-* 'mbogi bado'
+* 'Beispieltext'
+* 'sample text'
+* 'texte dexemple'
 
 To track different keywords, modify the keywords list in the script to include the desired keywords.
 
