@@ -2,7 +2,7 @@
 This script allows you to track tweets containing specific keywords and save the data to a CSV file. It uses the Twitter API and the Tweepy library to stream tweets in real-time and search for previous tweets from the same user containing the same keyword.
 
 # Installation
-1. Clone the repository: git clone `https://github.com/mz33-babu/twitter-feed-analysis.git`
+1. Clone the repository: `git clone https://github.com/mz33-babu/twitter-feed-analysis.git`
 2. Navigate to the directory: `cd twitter-analysis`
 3. Install the required packages: `pip install -r requirements.txt`
 
