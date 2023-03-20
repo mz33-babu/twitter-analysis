@@ -17,7 +17,7 @@ auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth)
 
 # List of keywords to track
-keywords = ['mbogi', 'genje', 'mbogi bado']
+keywords = ['Beispieltext', 'sample text', 'texte dexemple']
 
 # Define the Stream class
 class Stream(tweepy.Stream):
