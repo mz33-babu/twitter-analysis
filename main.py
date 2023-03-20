@@ -4,10 +4,10 @@ import time
 import csv
 
 # Twitter API credentials
-consumer_key = "ZWrcObb1CYdRHDduMWwXd00N6"
-consumer_secret = "cGhccSnkmhhmWAtJJKO9bgAQmL1zjyIocGrnhVFlY2gTfIBqQP"
-access_token = "92945738-t0MEa3Q2qmcNHzlHaJ8PGhbeAan5EelfUwCJYQYrp"
-access_secret = "g3d5yIu2WruX62FIcqUHYNDHSPt92X85ZnCCRix0kceAg"
+consumer_key = "ZWrcOxxxxxxxxxxx"
+consumer_secret = "cGhccSnxxxxxxxxxxxxxxxxrnhVFlY2gTfIBqQP"
+access_token = "4273738-t0MEa3QffffffffffffEelfUwCJYQYrp"
+access_secret = "g3dzzzzzzzzzzzzzzzzzzix0kceAg"
 
 # Authentication to Twitter API
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
