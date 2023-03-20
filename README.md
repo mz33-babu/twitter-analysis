@@ -1,4 +1,4 @@
-# twitter-feed analysis
+# Twitter-feed-analysis
 This script allows you to track tweets containing specific keywords and save the data to a CSV file. It uses the Twitter API and the Tweepy library to stream tweets in real-time and search for previous tweets from the same user containing the same keyword.
 
 # Installation
